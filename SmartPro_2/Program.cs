@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -12,7 +12,6 @@ namespace SmartPro_2
         {
             #region Koşul İfadeleri
             /*
-             
             == Eşittir
             === Denktir
             < Küçüktür
@@ -22,11 +21,8 @@ namespace SmartPro_2
             && Ve
             || Veya
             != Eşit Değildir veya Denk Değildir
-
             */
             #endregion
-
-
         }
     }
 }
